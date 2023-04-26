@@ -24,6 +24,7 @@
 /hola_STMF429/hola_STMF429.ioc
 /hola_STMF429/STM32F429ZITX_FLASH.ld
 /hola_STMF429/STM32F429ZITX_RAM.ld
+/hola_STMF429/hola_STMF429 Debug.launch
 
 /Interrupcion/.settings
 /Interrupcion/Debug
@@ -58,4 +59,14 @@
 /Timer/STM32F401RETX_FLASH.ld
 /Timer/STM32F401RETX_RAM.ld
 
+/ADC/.settings
+/ADC/Debug
+/ADC/Drivers
+/ADC/.cproject
+/ADC/.mxproject
+/ADC/.project
+/ADC/ADC.ioc
+/ADC/ADC Debug.launch
+/ADC/STM32F401RETX_FLASH.ld
+/ADC/STM32F401RETX_RAM.ld
 
